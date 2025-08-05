@@ -27,8 +27,8 @@ O objetivo deste projeto é apresentar, de forma organizada e visualmente acess�
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/neymar-site.git
-   cd neymar-site
+   git clone https://github.com/TiagoReidelas12/carreira-do-Neymar.git
+   cd carreira-do-Neymar
 Abra o arquivo index.html com seu navegador de preferência:
 
 Clique duas vezes no arquivo index.html
